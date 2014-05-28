@@ -1,0 +1,3 @@
+def sentence
+  true
+end
