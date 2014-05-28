@@ -2,8 +2,8 @@
 
 describe 'MadLibs' do
 
-  it '' do
-
+  it "should take a sentence from the user" do
+  	expect(sentence).to be_true
   end
 
 end
